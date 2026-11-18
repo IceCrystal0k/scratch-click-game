@@ -1,6 +1,7 @@
 GAME CONCEPT DOCUMENT (GCD)
 
-Project Name: [br3qad's Aim Trainer]
+Project Name: [lolbit456's Aim Trainer]
+Devs : lolbit456, IceCrystal0k
 Genre: Aim Trainer / Arcade
 Platform: PC (Scratch)
 Development Stage: Pre-Alpha
