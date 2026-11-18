@@ -1,0 +1,58 @@
+GAME CONCEPT DOCUMENT (GCD)
+
+Project Name: [br3qad's Aim Trainer]
+Genre: Aim Trainer / Arcade
+Platform: PC (Scratch)
+Development Stage: Pre-Alpha
+Version: 0.4
+
+1. Game Overview
+
+A simple aim-training game where players click targets that appear on the screen. The goal is to improve accuracy, reaction time, and aiming speed through different challenges.
+
+2. Core Gameplay
+Targets spawn at random positions.
+Players click targets to earn points.
+Missing targets may result in penalties.               (Working on it)
+
+3. Game Modes
+Static: Hit moving targets.
+Reaction: Test reaction speed against randomly appearing targets/bombs.
+Flick: Quickly aim between distant targets.
+Tracking: Follow and hit moving targets.
+Speed: Hit as many targets as possible to earn points
+
+4. Scoring & Statistics
+
+The game tracks:
+
+Total hits and misses.                         (Working on it)
+Total score.
+Personal bests.
+
+5. Visuals & Audio
+
+The game will feature a clean, minimalist interface with visible targets, smooth animations, and satisfying sound effects for hits, misses, and other interactions.      (Working on it)
+
+6. Main Features
+Multiple training modes.                  (Not in game yet)
+Difficulty settings.                            (Not in game yet)
+Score tracking.
+Personal records.
+Customizable settings.                         (Working on it)
+Results screen.                                       (Almost finished)
+
+7. Development Goals
+
+The initial version should focus on:
+
+Target spawning.
+Mouse input and hit detection.
+Scoring system.
+Timer.
+Basic UI.
+Results screen.
+
+8. Overall Vision
+
+Create a simple, responsive, and enjoyable aim trainer that helps players improve their aiming skills while encouraging them to continue

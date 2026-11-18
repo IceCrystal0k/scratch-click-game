@@ -1,0 +1,5 @@
+Game was created
+ *Added Targets                          *Added Space backdrop
+ *Added Bombs                            *Added Score System
+ *Added "You Died!" screen               *Added a High Score (956)
+                                         *Added sounds
